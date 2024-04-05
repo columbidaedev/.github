@@ -21,5 +21,3 @@ and do things step by step
 - [ ] SwiftUI: macOS
 - [ ] WinUI 3: Universal Windows
 - [ ] GTK: Linux
-
-https://github.com/columbidaedev/Columbidae.Server
