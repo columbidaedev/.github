@@ -1,5 +1,8 @@
 # Columbidae
 
+> [!Note] 
+> Self-hosted QQ service
+
 QQ is bad. Columbidae wants to make it good, via self-hosted
 message server and natively implemented clients
 
@@ -10,6 +13,10 @@ database and message receivers
 
 Columbidae is in its very early stages, but we have ambitions
 and do things step by step
+
+### Protocol
+
+- [ ] Protobuf: [Protos](https://github.com/columbidaedev/Protos)
 
 ### Server
 
