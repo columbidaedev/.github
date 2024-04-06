@@ -1,7 +1,7 @@
 # Columbidae
 
 > [!Note] 
-> Self-hosted QQ service
+> **Self-hosted QQ service**
 
 QQ is bad. Columbidae wants to make it good, via self-hosted
 message server and natively implemented clients
